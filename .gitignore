@@ -1,0 +1,28 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.dmg
+*.app
+
+# Build artifacts
+tmail
+tmail-*
+
+# Go workspace file
+go.work
+
+# Go dependencies
+vendor/
+
+# Test binary, build with 'go test -c'
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# IDE files
+*.swp
+*.swo
